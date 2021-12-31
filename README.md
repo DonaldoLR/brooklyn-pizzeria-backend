@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DonaldoLR/brooklyn-pizzeria-backend">
-    <img src="./logo-pizza.png" alt="Logo" width="150" height="150" style="background-color:white; padding:10px">
+    <img src="./logo-pizza.png" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center">Brooklyn Pizzera Backend</h3>
